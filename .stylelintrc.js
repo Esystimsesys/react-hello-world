@@ -4,7 +4,7 @@ module.exports = {
   ignoreFiles: ['**/node_modules/**'],
   rules: {
     'string-quotes': 'single',
-    //    'selector-class-pattern': null,
+    'selector-class-pattern': null,
     'keyframes-name-pattern': null,
   },
 };
